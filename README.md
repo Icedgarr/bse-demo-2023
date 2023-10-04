@@ -2,4 +2,4 @@
 
 Add a new sentence
 
-This new sentence
+Add a second sentence
