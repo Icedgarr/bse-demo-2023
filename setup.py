@@ -19,7 +19,7 @@ setup(
     packages=find_packages(where='', exclude=['tests']),
     install_requires=get_requirements(),
     setup_requires=['pytest-runner', 'wheel'],
-    url='https://github.com/icedgarr/bse-demo-2024',
+    url='https://github.com/icedgarr/bse-demo',
     classifiers=[
         'Programming Language :: Python :: 3.10.7'
     ]
