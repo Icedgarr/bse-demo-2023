@@ -1,4 +1,4 @@
-# bse-demo-2023
+# bse-demo
 
 Add a new sentence
 
